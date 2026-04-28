@@ -57,10 +57,5 @@ Technologies Used
 * Improve AI model accuracy
 * Expand to different crops
 * Add IoT-based remote monitoring 
-
-
-
-
-
-* Camera-Based Pest Detection System (2021)
-* Automated Pesticide Sprayer (2023)
+* Camera-Based Pest Detection System 
+* Automated Pesticide Sprayer 

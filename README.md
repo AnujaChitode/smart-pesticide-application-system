@@ -56,7 +56,7 @@ Technologies Used
 
 * Improve AI model accuracy
 * Expand to different crops
-* Add IoT-based remote monitoring (future enhancement)
+* Add IoT-based remote monitoring 
 
 
 
